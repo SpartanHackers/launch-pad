@@ -1,4 +1,7 @@
-launch-pad
-==========
+Go to the Wiki!
+---------------
 
-This is the Spartan Hackers GitHub organization homepage. This is the place where you can find links to our tutorials, external tutorials, and other useful links. If there is anything you feel should be added, set up a pull request!
+###All information & links are on the [wiki for this respository](https://github.com/SpartanHackers/launch-pad/wiki)!
+
+
+** Currently the wiki is empty -- we promise it'll be up & full of interesting links soon!
